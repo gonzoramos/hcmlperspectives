@@ -6,6 +6,7 @@ search: false
 
 author:
   name     : "Your Name"
+  avatar   : "/spider-sense.jpg"
   bio      : "My awesome biography constrained to a sentence or two goes here."
   location : "Somewhere, USA" 
 
