@@ -1,9 +1,11 @@
 main:
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
-  - title: "Tags"
-    url: /tags/
-  - title: "Pages"
-    url: /page-archive/
-  - title: "External Link"
-    url: https://google.com
+  - title: "Homee"
+    url: /
+  - title: "Goals"
+    url: /goals.html
+  - title: "Call for Papers"
+    url: /callforpapers.html
+  - title: "Program"
+    url: /program.html
+- title: "Committee"
+    url: /committee.html
