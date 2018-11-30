@@ -1,11 +1,9 @@
 main:
-  - title: "Goals"
+  - title: "goals"
     url: /goals.html
-  - title: "Call for Papers"
+  - title: "call for papers"
     url: /callforpapers.html
-  - title: "Program"
+  - title: "program"
     url: /program.html
-  - title: "Committee"
+  - title: "committee"
     url: /committee.html
-  - title: "External Link"
-    url: https://google.com
