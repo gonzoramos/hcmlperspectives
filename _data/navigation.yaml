@@ -1,11 +1,11 @@
 main:
-  - title: "Homee"
-    url: /index.hmtl
-  - title: "Goals"
-    url: /goals.html
-  - title: "Call for Papers"
-    url: /callforpapers.html
-  - title: "Program"
-    url: /program.html
+- title: "Homee"
+url: /index.hmtl
+- title: "Goals"
+ url: /goals.html 
+- title: "Call for Papers"
+url: /callforpapers.html
+- title: "Program"
+url: /program.html
 - title: "Committee"
-    url: /committee.html
+url: /committee.html
