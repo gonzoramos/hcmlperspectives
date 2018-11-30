@@ -2,7 +2,7 @@ title: "HCML Perspectives Workshop"
 
 description: "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
 
-search: true
+search: false
 
 author:
   name     : "Your Name"
