@@ -1,6 +1,6 @@
 main:
   - title: "Homee"
-    url: /
+    url: /index.hmtl
   - title: "Goals"
     url: /goals.html
   - title: "Call for Papers"
