@@ -9,6 +9,8 @@ author:
   bio      : "My awesome biography constrained to a sentence or two goes here."
   location : "Somewhere, USA" 
 
+footer:
+
 plugins:
   - jekyll-include-cache
 
