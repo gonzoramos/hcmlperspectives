@@ -1,5 +1,6 @@
 ---
 title: Call for Papers
+type: single
 ---
 
 # Call for Papers
