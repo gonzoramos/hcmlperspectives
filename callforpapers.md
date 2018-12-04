@@ -1,6 +1,6 @@
 ---
-type: single
-title: Call for Papers
+layout: single
+title: Call for Papers!
 ---
 
 Machine Learning is currently one of the most important technologies used across systems affecting research, commerce, healthcare, entertainment, security, etc.

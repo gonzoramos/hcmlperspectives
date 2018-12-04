@@ -6,6 +6,9 @@ sidebar:
     text: "Some text here."
   - title: "Another Title"
     text: "More text here."
+
+layout: single
+title: Welcome to the HCML Perspectives Workshop Site.
 ---
 
-Welcome to this site.
+
