@@ -1,9 +1,7 @@
 ---
-title: Call for Papers
 type: single
+title: Call for Papers
 ---
-
-# Call for Papers!
 
 Machine Learning is currently one of the most important technologies used across systems affecting research, commerce, healthcare, entertainment, security, etc.
 As its use grows woven into our society, and affecting the lives of people, it has become important to study and design the interactions between ML and its stakeholders from a Human-Centered point of view. Human-Centered Machine Learning (HCML) shares this view and re-frames work on and related to ML in term of human goals.

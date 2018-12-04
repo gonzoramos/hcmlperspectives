@@ -3,8 +3,6 @@ layout: single
 title: Your Committee
 ---
 
-# Committee
-
 **Saleema Amershi** is a Researcher in the Adaptive Systems and Interaction Group at Microsoft Research working on technologies for making people better at building and using ML systems. Throughout her work, she distills guiding principles applicable in a broader context to help provide a foundation for future human-driven machine learning systems.
 
 **Richard Banks** is Principal Design Manager at the Human Experience and Design Group at Microsoft Research, Cambridge, UK. His work explores the boundaries of technology, creativity and society through a human-centered lens. Much of Richard's current focus is on new issues and opportunities raised by artificial intelligence for both people, as well as the design profession. 
