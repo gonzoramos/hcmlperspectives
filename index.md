@@ -1,11 +1,7 @@
 ---
 sidebar:
-  - title: "Title"
-    image: https://placehold.it/350x250
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
+  - title: "Position Papers Deadline"
+    text: "12 February 2019"
 
 layout: single
 title: HCML Perspectives Workshop.
