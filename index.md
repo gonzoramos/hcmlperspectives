@@ -2,7 +2,7 @@
 sidebar:
   - title: "Important Dates:"
     image: logo.png
-    text: "Position Papers Deadline: 12 February 2019"
+    text: "Papers Deadline: 12 February 2019"
 
 layout: single
 title: HCML Perspectives Workshop.
