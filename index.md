@@ -2,6 +2,7 @@
 sidebar:
   - title: "Important Dates:"
     image: logo.png
+    image_width: "100px"
     text: "Position Papers Deadline: 12 February 2019"
 
 layout: single
