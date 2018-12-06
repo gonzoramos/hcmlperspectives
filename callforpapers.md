@@ -23,7 +23,7 @@ This workshop continues prior workshops on HCML by inviting ideas focusing on, b
 By articulating these emerging perspectives, we look at how, as a community, we keep moving the HCML field forward.
 
 ## How to Participate
-We invite the submission of positions papers between 3-6 pages long. Position papers should follow the CHI Extended Abstract format and be submitted through the workshop's submission site available through (https://aka.ms/hcmlperspectives). The workshop`s organizing committee will review the submissions. 
+We invite the submission of positions papers between 3-6 pages long. Position papers should follow the CHI Extended Abstract format and be submitted through the workshop's submission site available through [https://aka.ms/hcmlperspectives](https://aka.ms/hcmlperspectives). The workshop`s organizing committee will review the submissions. 
 
 Accepted papers will be presented at the workshop. We ask that at least one of the authors of each accepted position paper attends the workshop. Presenting authors must register for the workshop and at least one full day of the conference.
 Each presentation will take place within a session focused around a particular theme. Sessions will consist of 3-4 presentations, each lasting approximately 10 minutes and will be followed by a group discussion.
