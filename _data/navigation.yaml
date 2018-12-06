@@ -1,4 +1,6 @@
 main:
+  - title: "home"
+    url: /index.html
   - title: "goals"
     url: /goals.html
   - title: "call for papers"
