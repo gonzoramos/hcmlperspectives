@@ -6,7 +6,7 @@ sidebar:
     text: "Papers Deadline: 12-Feb-2019"
 
 layout: single
-title: HCML Perspectives Workshop.
+title: Human-Centered Machine Learning Perspectives Workshop.
 ---
 
 Current Machine Learning models have the power to make predictions that are as good as or better than those made by people. The rapid adoption of this technology puts it at the forefront of systems that impact the lives of many. Therefore, work at the intersection of people's needs and ML systems is more relevant than ever.
