@@ -9,8 +9,34 @@ layout: single
 title: Workshop Goals.
 ---
 
-Machine Learning has developed as a powerful technology that is embedded into thefabric of the systems and processes that affect millions of people. Human-Centered Machine Learning emerges in response to the above, to provide the understandings and means to put ML at the serviceof people in a way that is accessible, useful, and trustworthy to all.
+Human-Centered Machine Learning (HCML) emerges in response to the rapid adoption of ML, to provide the understandings and means to put ML at the service of people in a way that is accessible, useful, and trustworthy to all. This workshop’s goals are to continue [past efforts](http://hcml2016.goldsmithsdigital.com/){:target="_blank"} in HCML and bring together a community of diverse practitioners and ideas to articulate an updated agenda for doing human-centered ML research focusing on the following emerging perspectives. 
 
-It is within this context that we set our workshop’s goals to continue [past efforts](http://hcml2016.goldsmithsdigital.com/){:target="_blank"} in the area and articulate an updated agenda for doing human-centered research that focuses in the above emergingperspectives. In particular, we hope to bring together a community of diverse practitioners and ideasconnected by a common set of goals.
+**Machine Teaching when people are more than a source of labels** - ...
+
+**Lowering the Barrier for Building ML Models with Machine Teaching** - Interactive Machine Learning (iML) systems have made making model building accessible for many. *Machine Teaching* (MT) is a process that builds on the iML flow and the notion that humans are more than "a source of labels". In particular, MT focuses on facilitating the interactive extraction of knowledge from a human teacher, towards the building of a model.
+
+This knowledge can take different forms. *Sampling* is about picking a useful example of something a learning system has not seen before, and thus can learn from. *Labeling* is about providing the learning system with sources of truth.
+*Featuring* is about identifying or selecting the properties that improve learning system's internal representation of the concept one wants to model.
+Finally, *Decomposing* is about breaking a concept into smaller sub-concepts. This is as another form of human knowledge teachers can pass to a learning system.
+
+Some of the questions to adress in this space include:
+- How much should we allow a person to know about the underlying learning algorithm in a Machine Teaching system?
+- How can we help a person map a problem to an ML-driven solution?
+- What is a suficient teaching language for different domains such as text, images, etc?
+- Models created through MT are semantic; i.e., the decisions made by these models are explainable in human terms. Are these explanations sufficient under the many different definitions and contexts of explainability?
+- What is the cost of mantaining a MT solution?
+- How does one evaluate a MT solution when there is no test set?
+- ...
+
+
+**Intelligible Systems, Explainable Decisions and Algorithmic Fairness** - Systems whose predictions can have significant consequences to someone's life are becoming ubiquitous. It then becomes paramount the need to add transparency, from the point of view of a human observer, to either the decisions (being explainable, the *why*) or the the processes that generate them (being intelligible, the *how*).
+
+The implementation of the European Union's General Data Protection Regulation (GDPR) and its provision to contest any automated decision-making that was made on an algorithmic basis, brings the discussion about explainable and intelligible ML systems to the forefront of HCML research. Either through the creation and study of models that are explainable and/or intelligible, or by the development of approaches that explain ``black box'' systems, this perspective is only starting to shed light into the important questions we need to answer as a community to make ML fair and trustworthy.
+
+Some of the questions to adress in this space include:
+- What are the many definitions for explanations and intelligibility?
+- What are proper metrics to measure explainability and intelligibility?
+- What are the different ways to explain an algorithmic decision?
+- ...
 
 (talk about workshop's structure)
