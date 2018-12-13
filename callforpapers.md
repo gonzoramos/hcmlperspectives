@@ -14,8 +14,9 @@ Machine Learning is currently one of the most important technologies used across
 As its use grows woven into our society, and affecting the lives of people, it has become important to study and design the interactions between ML and its stakeholders from a Human-Centered point of view. Human-Centered Machine Learning (HCML) shares this view and re-frames work on and related to ML in term of human goals.
 This workshop continues prior workshops on HCML by inviting ideas focusing on (but not limited to) the themes of Teaching to Machines (Machine Teaching), and Explainable Decisions and ML Systems from a Human-Centered point of view. For example:
 
-- What are the different ways to express and leverage human knowledge beyond labels: e.g., features, schema, concept decomposition, samples, etc
+- What are the different ways to express and leverage human knowledge beyond labels? e.g., features, schema, concept decomposition, samples, etc.
 - How much should we allow a person to know about the underlying learning algorithm in a Machine Teaching system?
+- What are the foreseeable positive and negative consequences of democratizing ML? How should we prepare and respond to them?
 - How can we help a person map/decompose a problem to an ML-driven solution?
 - What is a sufficient teaching language for different domains such as text, images, etc?
 - Models created through Machine Teaching are semantic; i.e., the decisions made by these models are explainable in human terms. Are these explanations sufficient under the many different definitions and contexts of explainability?
