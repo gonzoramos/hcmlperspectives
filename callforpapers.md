@@ -9,7 +9,6 @@ layout: single
 title: Call for Papers!
 ---
 
-## The Workshop
 Machine Learning is currently one of the most important technologies used across systems affecting research, commerce, healthcare, entertainment, security, etc.
 As its use grows woven into our society, and affecting the lives of people, it has become important to study and design the interactions between ML and its stakeholders from a Human-Centered point of view. Human-Centered Machine Learning (HCML) shares this view and re-frames work on and related to ML in term of human goals.
 This workshop continues prior workshops on HCML by inviting ideas focusing on (but not limited to) the themes of Teaching to Machines (Machine Teaching), and Explainable Decisions and ML Systems from a Human-Centered point of view. For example:
@@ -30,7 +29,7 @@ This workshop continues prior workshops on HCML by inviting ideas focusing on (b
 By articulating these emerging perspectives, we look at how, as a community, we keep moving the HCML field forward.
 
 ## How to Participate
-We invite the submission of positions papers between 3-6 pages long. Position papers should follow the CHI Extended Abstract [format](http://chi2019.acm.org/authors/chi-proceedings-format/){:target="_blank"} and be submitted through our [EasyChair submission site](https://submission_site){:target="_blank"}.
+We invite the submission of positions papers between 3-6 pages long. Position papers should follow the CHI Extended Abstract [format](http://chi2019.acm.org/authors/chi-proceedings-format/){:target="_blank"} and be submitted through our [CMT submission site](https://cmt3.research.microsoft.com/HCMLP2019){:target="_blank"}.
 
 The workshop`s organizing committee will review the submissions and accepted papers will be presented at the workshop. We ask that at least one of the authors of each accepted position paper attends the workshop. Presenting authors must register for the workshop and at least one full day of the conference.
 
