@@ -4,6 +4,8 @@ sidebar:
     image: logo.png
     image_alt: "A human at the center of something, something, machine learning."
     text: "Papers Deadline: 12-Feb-2019"
+  - extra: ""
+    text: "Papers Decisions: 1-Mar-2019"
 
 layout: single
 title: Workshop Goals.
@@ -16,4 +18,4 @@ In particular, the workshop will host sessions where participants will present p
 After the paper sessions, panelists and audience will collaborate in participatory design activity to explore one or more ideas that emerged from the prior panels.
 
 The workshop's final event will consist of a town-hall-like discussion among the participants and the attendees. During this event, we will discuss the best ways to best distribute the outcome of the day's activities. This includes expanding the day's presentations into longer papers to be included into a special issue of a journal such as TOCHI, or online venues such as [distill](http://distill.pub){:target="_blank"}.
-In addition to considering disemination plans, we will discuss how to best maintain and grow the HCML community. We would like to propose the formation of a Special Interest Group (SIG) on HCML, and the continuation of workshops in the area in venues focusing on  HCI, Design, and ML themes.
+In addition to considering dissemination plans, we will discuss how to best maintain and grow the HCML community. We would like to propose the formation of a Special Interest Group (SIG) on HCML, and the continuation of workshops in the area in venues focusing on  HCI, Design, and ML themes.
