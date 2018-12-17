@@ -13,9 +13,9 @@ layout: single
 title: Workshop Goals.
 ---
 
-Human-Centered Machine Learning (HCML) emerges in response to the rapid adoption of ML, to provide the understandings and means to put ML at the service of people in a way that is accessible, useful, and trustworthy to all. This workshop’s goals are to continue [past efforts](http://hcml2016.goldsmithsdigital.com/){:target="_blank"} in HCML and bring together a community of diverse practitioners and ideas to articulate an updated agenda for doing human-centered ML research.
+Human-Centered Machine Learning (HCML) emerges in response to the rapid adoption of Machine Learning (ML), to provide the understandings and means to put ML at the service of people in a way that is accessible, useful, and trustworthy to all. This workshop’s goals are to continue [past efforts](http://hcml2016.goldsmithsdigital.com/){:target="_blank"} in HCML and bring together a community of diverse practitioners and ideas to articulate an updated agenda for doing human-centered ML research.
 
-In particular, the workshop will host sessions where participants will present position papers focusing on emerging ideas about *Machine Teaching (when people are more than merely a source of labels)*, *Intelligible Systems, Explainable Decisions, and Algorithmic Fairness*. For more details on these themes, see the [Call for Papers](callforpapers.html) section of this website.
+In particular, the workshop will host sessions where participants will present position papers focusing on emerging ideas about experiences when people engage with ML in richer ways than merely being a source of labels, teaching to machines, intelligible systems, explainable decisions, and algorithmic fairness. For more details on these themes, see the [Call for Papers](callforpapers.html) section of this website.
 
 After the paper sessions, panelists and audience will collaborate in participatory design activity to explore one or more ideas that emerged from the prior panels.
 
