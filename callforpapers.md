@@ -14,7 +14,8 @@ title: Call for Papers!
 
 Machine Learning (ML) is currently one of the most important technologies used across systems affecting research, commerce, healthcare, entertainment, security, etc.
 As its use grows, woven into our society and affecting the lives of people, it has become important to study and design the interactions between ML and its stakeholders from a Human-Centered point of view. Human-Centered Machine Learning (HCML) shares this view and re-frames work on and related to ML in term of human goals.
-This workshop picks up from a [prior workshop](http://hcml2016.goldsmithsdigital.com/){:target="\_blank"} that took place at CHI 2016 and invites ideas focusing on (but not limited to) the themes of lowering the barrier of entry to ML, teaching to machines with richer knowledge than just labels, and explainable decisions and ML systems *from a Human-Centered point of view*. For example:
+This workshop picks up from a [prior workshop](http://hcml2016.goldsmithsdigital.com/){:target="\_blank"} that took place at CHI 2016 and invites ideas focusing on (but not limited to) the themes of lowering the barrier of entry to ML, teaching to machines with richer knowledge than just labels, and explainable decisions and ML systems *from a Human-Centered point of view*
+. For example:
 
 - What are the foreseeable positive and negative consequences of democratizing ML? How should we prepare and respond to them?
 - How much should we allow a person to know about the underlying learning algorithm in an end-user ML, or machine teaching system?
