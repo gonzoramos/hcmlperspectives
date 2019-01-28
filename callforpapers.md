@@ -32,9 +32,9 @@ This workshop picks up from a [prior workshop](http://hcml2016.goldsmithsdigital
 By articulating these emerging perspectives, we look at how, as a community, we keep moving the HCML field forward.
 
 ## How to Participate
-We invite the submission of positions papers between 3-6 pages long. Position papers should follow the CHI Extended Abstract [format](http://chi2019.acm.org/authors/chi-proceedings-format/){:target="_blank"} and be submitted through our [CMT submission site](https://cmt3.research.microsoft.com/HCMLP2019){:target="_blank"}.
+We invite the submission of positions papers between 3-6 pages long, including references. Position papers should follow the CHI Extended Abstract [format](http://chi2019.acm.org/authors/chi-proceedings-format/){:target="_blank"} and be submitted through our [CMT submission site](https://cmt3.research.microsoft.com/HCMLP2019){:target="_blank"}.
 
-The workshop`s organizing committee will review the submissions and accepted papers will be presented at the workshop. We ask that at least one of the authors of each accepted position paper attends the workshop. Presenting authors must register for the workshop and at least one full day of the conference.
+Submissions are single-blind reviewed; i.e., submissions must include the author's names and affiliation. The workshop`s organizing committee will review the submissions and accepted papers will be presented at the workshop. We ask that at least one of the authors of each accepted position paper attends the workshop. Presenting authors must register for the workshop and at least one full day of the conference.
 
 Each presentation will take place within a session focused around a particular theme. Sessions will consist of 3-4 presentations, each lasting approximately 10 minutes and will be followed by a group discussion.
 
