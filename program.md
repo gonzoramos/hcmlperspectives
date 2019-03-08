@@ -17,6 +17,7 @@ We are proud to present the list of participants to the workshop. These are divi
 ## Papers
 
 **The Deciders: Envisioning A Future of Pervasive AI** - Justin Weisz (IBM Research AI); Maryam Ashoori (IBM Research AI)
+{: .paper}
 
 **It Takes a Village to Raise an AI**	- Claudio Pinhanez (IBM Research, Brazil)
 
