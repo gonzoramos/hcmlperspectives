@@ -85,9 +85,6 @@ We are proud to present the list of participants to the workshop. These are divi
 **Collaborative Systems for Ideation: Collecting visual Inspiration with AI’s**	- Janin Koch (Aalto University)
 {: .poster}
 
-**Challenges to Evaluating Natural-Language Datasets in Design and Maintenance of Chatbots**	- Kit Kuksenok (jobpal); Andriy Martyniv (jobpal)
-{: .poster}
-
 **PreCall: A Visual Interface for Threshold Optimization in ML Model Selection**	- Christoph Kinkeldey (Freie Universität Berlin); Claudia Müller-Birn (Freie Universität Berlin); Tom Gülenman (Freie Universität Berlin); Jesse Josua Benjamin (Freie Universität Berlin); Aaron Halfaker (Wikimedia Foundation)
 {: .poster}
 
