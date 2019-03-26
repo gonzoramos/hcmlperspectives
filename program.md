@@ -28,7 +28,7 @@ We are proud to present the list of participants to the workshop. These are divi
 **Supporting Feature Engineering in End-User Machine Learning**	- Louis McCallum (Goldsmiths); Rebecca Fiebrink (Goldsmiths University of London)
 {: .paper}
 
-**Enabling Customer-Driven Learning and Customization Processes for ML-Based Domestic Robots**	- Fabrice Matulic (Preferred Networks)
+**Enabling Customer-Driven Learning and Customization Processes for ML-Based Domestic Robots**	- Fabrice Matulic; Yuta Kikuchi; Jason Naradowsky (Preferred Networks)
 {: .paper}
 
 **Religion for Machines: Introducing Humanism and Dataism as Perspectives to Guide the Design and Evaluation of Machine Learning Systems**	- Mehmet Aydın Baytaş (Koç University)
