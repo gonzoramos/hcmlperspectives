@@ -108,7 +108,8 @@ We are proud to present the list of participants to the workshop. These are divi
 **Designing for The Long Tail of Machine Learning**	- Martin Lindvall (Sectra AB); Jesper Molin (Sectra AB)
 {: .poster}
 
-**Towards Humane Feedback Mechanisms in Exploratory Search**	- Esben Sørig (Goldsmiths, University of London)
+**Towards Humane Feedback Mechanisms in Exploratory Search**	- Esben Sørig, Rebecca Fiebrink (Goldsmiths, University of London); Nicolas Collignon (University of Edinburgh); Noriko Kando
+(National Institute of Informatics Tokyo)
 {: .poster}
 
 **Collaborative Systems for Ideation: Collecting visual Inspiration with AI’s**	- Janin Koch (Aalto University)
