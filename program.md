@@ -90,45 +90,45 @@ We are proud to present the list of participants to the workshop. These are divi
 
 ## Workshop Posters
 
-**An Interaction Framework for Studying Co-Creative AI**	- Matthew J Guzdial (Georgia Tech); Mark Riedl (Georgia Institute of Technology)
+**An Interaction Framework for Studying Co-Creative AI**	- Matthew J Guzdial (Georgia Tech); Mark Riedl (Georgia Institute of Technology) [pdf](https://drive.google.com/open?id=1gjY-A8GQlB7OfBCxWwpQokRl-FxY7Fdt)
 {: .poster}
 
-**Challenges for ML-based Emotion Recognition Systems in Medicine. A Human-Centered Approach** -	Oana Balan (University POLITEHNICA of Bucharest, Faculty of Automatic Control and Computers)
+**Challenges for ML-based Emotion Recognition Systems in Medicine. A Human-Centered Approach** -	Oana Balan (University POLITEHNICA of Bucharest, Faculty of Automatic Control and Computers) [pdf](https://drive.google.com/open?id=12YI7kxjp114vBVSQzRbuQrDHotFcPQoa)
 {: .poster}
 
-**Teaching Chatbots to Show Science: A Study with Museum Guides**	- Heloisa Candello (IBM Research); Mauro Pichiliani (IBM Research); Claudio Pinhanez (IBM Research); Paulo R Cavalin (IBM-Research, Brazil)
+**Teaching Chatbots to Show Science: A Study with Museum Guides**	- Heloisa Candello (IBM Research); Mauro Pichiliani (IBM Research); Claudio Pinhanez (IBM Research); Paulo R Cavalin (IBM-Research, Brazil) [pdf](https://drive.google.com/open?id=1TENo4bq8CmG32bogTozFEudPH84GJQo8)
 {: .poster}
 
-**Interactive Exploration of Large Decision Tree Ensembles**	- Jan Forberg (Technische Universität Dresden); Annett Mitschick (Technische Universität Dresden); Martin Voigt (AI4BD GmbH); Raimund Dachselt (Technische Universität Dresden)
+**Interactive Exploration of Large Decision Tree Ensembles**	- Jan Forberg (Technische Universität Dresden); Annett Mitschick (Technische Universität Dresden); Martin Voigt (AI4BD GmbH); Raimund Dachselt (Technische Universität Dresden) [pdf](https://drive.google.com/open?id=1NSvPYM5Sp19YcUSmak1PztPBo4hG_zS9)
 {: .poster}
 
 **Making Machine Learning Tangible for UX Designers**	- John Fass (MR); Emily Groves (EPFL+ECAL)
 {: .poster}
 
 **Designing for The Long Tail of Machine Learning**	- Martin Lindvall (Sectra AB); Jesper Molin (Sectra AB)
-{: .poster}
+{: .poster} [pdf](https://drive.google.com/open?id=1xLpuE0T2xEgUZeGp21c6f00Hqmdsa8wj)
 
 **Towards Humane Feedback Mechanisms in Exploratory Search**	- Esben Sørig, Rebecca Fiebrink (Goldsmiths, University of London); Nicolas Collignon (University of Edinburgh); Noriko Kando
-(National Institute of Informatics Tokyo)
+(National Institute of Informatics Tokyo) [pdf](https://drive.google.com/open?id=1GPd96TRjoQt54WZpo5Gt1DwOSv1ijW6n)
 {: .poster}
 
-**Collaborative Systems for Ideation: Collecting visual Inspiration with AI’s**	- Janin Koch (Aalto University)
+**Collaborative Systems for Ideation: Collecting visual Inspiration with AI’s**	- Janin Koch (Aalto University) [pdf](https://drive.google.com/open?id=1MSsbxUcAUFBZT5ccmcYkPw6Y7dC1fTY0)
 {: .poster}
 
-**PreCall: A Visual Interface for Threshold Optimization in ML Model Selection**	- Christoph Kinkeldey (Freie Universität Berlin); Claudia Müller-Birn (Freie Universität Berlin); Tom Gülenman (Freie Universität Berlin); Jesse Josua Benjamin (Freie Universität Berlin); Aaron Halfaker (Wikimedia Foundation)
+**PreCall: A Visual Interface for Threshold Optimization in ML Model Selection**	- Christoph Kinkeldey (Freie Universität Berlin); Claudia Müller-Birn (Freie Universität Berlin); Tom Gülenman (Freie Universität Berlin); Jesse Josua Benjamin (Freie Universität Berlin); Aaron Halfaker (Wikimedia Foundation) [pdf](https://drive.google.com/open?id=1HchwlONhxClAePm5z17NXf4yKT9Whf5e)
 {: .poster}
 
-**Unfairness towards subjective opinions in Machine Learning**	- Agathe Balayn (TU Delft, IBM CAS); Alessandro  Bozzon (Delft University of Technology); Zoltán Szlávik (IBM Center for Advanced Studies)
+**Unfairness towards subjective opinions in Machine Learning**	- Agathe Balayn (TU Delft, IBM CAS); Alessandro  Bozzon (Delft University of Technology); Zoltán Szlávik (IBM Center for Advanced Studies) [pdf](https://drive.google.com/open?id=17zBxu68ytJr34U_uOAYWI8VWx53gGrwX)
 {: .poster}
 
-**Feedback Channels & the Effect of Human Learning in Interactive Machine Learning**	- Michael Zbyszynski (Goldsmiths University of London); Balandino Di Donato (Goldsmiths University of London); Atau Tanaka (Goldsmiths University of London)
+**Feedback Channels & the Effect of Human Learning in Interactive Machine Learning**	- Michael Zbyszynski (Goldsmiths University of London); Balandino Di Donato (Goldsmiths University of London); Atau Tanaka (Goldsmiths University of London) [pdf](https://drive.google.com/open?id=1BIMDBkwIQ9XSRnaW6J4IDDo9GTFXl7SO)
 {: .poster}
 
-**Why should we teach machines to read charts made for humans?**	- Jorge H  Piazentin Ono (NYU)
+**Why should we teach machines to read charts made for humans?**	- Jorge H  Piazentin Ono (NYU) [pdf](https://drive.google.com/open?id=1FkYP8cdj30gyU8YeASGvDfeJlQ4V1ELX)
 {: .poster}
 
-**(Machine) Learning through making and using. Building sensitivity by negotiating agency.**	- Agnieszka Billewicz (Malmo University)
+**(Machine) Learning through making and using. Building sensitivity by negotiating agency.**	- Agnieszka Billewicz (Malmo University) [pdf](https://drive.google.com/open?id=1Btecl6gtPSeXV9q0PLPPF4XTAByRQ48S)
 {: .poster}
 
-**Disseminating Machine Learning to Domain Experts: Understanding Challenges and Opportunities in Supporting a Model Building Process**	- Ray Hong (New York University); Jorge H  Piazentin Ono (NYU); Juliana  Freire  (New York University); Enrico Bertini (New York University, NY, USA)
+**Disseminating Machine Learning to Domain Experts: Understanding Challenges and Opportunities in Supporting a Model Building Process**	- Ray Hong (New York University); Jorge H  Piazentin Ono (NYU); Juliana  Freire  (New York University); Enrico Bertini (New York University, NY, USA) [pdf](https://drive.google.com/open?id=1sCj5w7Z_Jg5pHvbtQtlzlx40tzL5qKCp)
 {: .poster}
