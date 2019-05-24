@@ -24,56 +24,56 @@ We are proud to present the list of participants to the workshop. These are divi
 
 ### 09:35 - Panel: Conversations between people and AI
 
-- **Human-AI Collaboration: Towards Socially-Guided Machine Learning**	- Vera Liao (IBM Research)
+- **Human-AI Collaboration: Towards Socially-Guided Machine Learning**	- Vera Liao (IBM Research) [pdf](https://drive.google.com/open?id=1FfSAmu7P2Bd99PIXvbfep6k_5SjAtpy3)
 {: .paper}
 
-- **People and AI See Things Different Implications of Mismatched Perception on HCI for AI Systems**	- Saleema Amershi (Microsoft Research); Ece Kamar (Microsoft Research); Emre Kiciman (Microsoft Research)
+- **People and AI See Things Different Implications of Mismatched Perception on HCI for AI Systems**	- Saleema Amershi (Microsoft Research); Ece Kamar (Microsoft Research); Emre Kiciman (Microsoft Research) [pdf](https://drive.google.com/open?id=17EvQ_gEBvmLPXeeP8Y821e_D-A_4eg_M)
 {: .paper}
 
-- **A conversational framework for machine learning** -	Kevin Walker (Royal College of Art)
+- **A conversational framework for machine learning** -	Kevin Walker (Royal College of Art) [pdf](https://drive.google.com/open?id=1jVJlFlqWLkcvkBWaBdtmcpnuRl1peHvS)
 {: .paper}
 
 ### 10:20 - Morning break 	
 
 ### 10:50 - Panel: Interactive / End-User ML
 
-- **Towards Heuristic Evaluation for Interactive Machine Learning**	- Eric J Corbett (Georgia Institute of Technology)
+- **Towards Heuristic Evaluation for Interactive Machine Learning**	- Eric J Corbett (Georgia Institute of Technology) [pdf](https://drive.google.com/open?id=1yPYIzu0tsoDxrZcRQlxow6ysvr17wou2)
 {: .paper}
 
-- **Two Case Studies of Experience Prototyping Machine Learning Systems in the Wild**	- Qian Yang (Carnegie Mellon University)
+- **Two Case Studies of Experience Prototyping Machine Learning Systems in the Wild**	- Qian Yang (Carnegie Mellon University) [pdf](https://drive.google.com/open?id=158zIJL2qSDPuPV6F_gfYsi_gNbYPCDez)
 {: .paper}
 
-- **Enabling Customer-Driven Learning and Customization Processes for ML-Based Domestic Robots**	- Fabrice Matulic; Yuta Kikuchi; Jason Naradowsky (Preferred Networks)
+- **Enabling Customer-Driven Learning and Customization Processes for ML-Based Domestic Robots**	- Fabrice Matulic; Yuta Kikuchi; Jason Naradowsky (Preferred Networks) [pdf](https://drive.google.com/open?id=1-PVh6G2hovB6ZbQXmzCp_L7FyJsofynB)
 {: .paper}
 
-- **Design Challenges of Machine Learning from User Interaction in Multi-Model Visual Analytics**	- John Wenskovitch (Virginia Tech); Chris North (Virginia Tech)
+- **Design Challenges of Machine Learning from User Interaction in Multi-Model Visual Analytics**	- John Wenskovitch (Virginia Tech); Chris North (Virginia Tech) [pdf](https://drive.google.com/open?id=1-StXqr8U7lJhl-l0UKK1XJVLSLZH2i7M)
 {: .paper}
 
 ### 11:50 - Lunch break	 
 
 ### 13:00 - Panel: Explainable AI
 
-- **Towards Explainable Artificial Intelligence: Structuring the Processes of Explanations**	- Mennatallah El-Assady (University of Konstanz); Wolfgang Jentner (University Konstanz); Rebecca  Kehlbeck (Unive); Udo Schlegel (Univ); Rita Sevastjanova (Universi); Fabian Sperrle (U); Thilo Spinner (Un); Daniel Keim (Un)
+- **Towards Explainable Artificial Intelligence: Structuring the Processes of Explanations**	- Mennatallah El-Assady; Wolfgang Jentner; Rebecca  Kehlbeck; Udo Schlegel; Rita Sevastjanova; Fabian Sperrle; Thilo Spinner; Daniel Keim (University of Konstanz) [pdf](https://drive.google.com/open?id=1ToLF2SOleGt6HzV7-xd-hWX1nt_QOnNZ)
 {: .paper}
 
-- **On Design and Evaluation of Human-centered Explainable AI systems**	- Upol Ehsan (Georgia Institute of Technology); Mark Riedl (Georgia Institute of Technology)
+- **On Design and Evaluation of Human-centered Explainable AI systems**	- Upol Ehsan (Georgia Institute of Technology); Mark Riedl (Georgia Institute of Technology) [pdf](https://drive.google.com/open?id=1Fnn5-B5ayWJYGyXuFcNFXYbgcUoSfAEg)
 {: .paper}
 
-- **The Deciders: Envisioning A Future of Pervasive AI** - Justin Weisz (IBM Research AI); Maryam Ashoori (IBM Research AI)
+- **The Deciders: Envisioning A Future of Pervasive AI** - Justin Weisz (IBM Research AI); Maryam Ashoori (IBM Research AI) [pdf](https://drive.google.com/open?id=1ODc_-a_dOudlCu9bzImDnr0RwYxVsWDG)
 {: .paper}
 
 ### 13:45 - Panel: Open Challenges and Lessons for HCML
 
-- **Design as a Pillar of Human-Centered Machine Learning**	- Jodi Forlizzi (Carnegie Mellon University)
+- **Design as a Pillar of Human-Centered Machine Learning**	- Jodi Forlizzi (Carnegie Mellon University) [pdf](https://drive.google.com/open?id=1qWcoIeUXwvHXjt5p9uoeGa001-OFd0ng)
 {: .paper}
 
-- **Supporting Feature Engineering in End-User Machine Learning**	- Louis McCallum (Goldsmiths); Rebecca Fiebrink (Goldsmiths University of London)
+- **Supporting Feature Engineering in End-User Machine Learning**	- Louis McCallum (Goldsmiths); Rebecca Fiebrink (Goldsmiths University of London) [pdf](https://drive.google.com/open?id=1dblkeZFPRJCBUNWOUP-dVO6tSvd0F5-h)
 {: .paper}
 
-- **Religion for Machines: Introducing Humanism and Dataism as Perspectives to Guide the Design and Evaluation of Machine Learning Systems**	- Mehmet Aydın Baytaş (Koç University)
+- **Religion for Machines: Introducing Humanism and Dataism as Perspectives to Guide the Design and Evaluation of Machine Learning Systems**	- Mehmet Aydın Baytaş (Koç University) [pdf](https://drive.google.com/open?id=1Ium0MkjIb39ZbqEW_-qdDb-tWZ9eOZwG)
 {: .paper}
 
-- **It Takes a Village to Raise an AI**	- Claudio Pinhanez (IBM Research, Brazil)
+- **It Takes a Village to Raise an AI**	- Claudio Pinhanez (IBM Research, Brazil) [pdf](https://drive.google.com/open?id=19LCH-psvd_s11RMmNRleJ2GhAanfF8Ql)
 {: .paper}
 
 ### 14:45	- Group Activity	 
