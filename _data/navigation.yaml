@@ -7,5 +7,7 @@ main:
     url: /callforpapers.html
   - title: "program"
     url: /program.html
+  - title: "videos"
+    url: https://www.youtube.com/playlist?list=PLOGJsm9N_DDL18iQiLIok5czXvGSL7jAS
   - title: "committee"
     url: /committee.html
